@@ -44,4 +44,4 @@ The below images indicate the top starting and ending locations in terms of geo-
 ![Top Ending Locations](https://github.com/gopivasanth/bikesharing/blob/08945674944f35e8719b71b1d34f1079ace6f6c0/images/Top%20Ending%20Locations.png)
 
 ## _Summary_
-
+The analysis was performed with usage data of 13983 bike id's and their corresponding 2,344,224 trips and their trip duration. The analysis indicate an average trip duration is around 17.5 minutes per trip. The charting across trip duration on an hourly basis across weekdays and the utilization trend of bikes suggest the strong potential for bike sharing rides in any new territory. The analysis are published in Tableau Public in form of worksheets and stories.
