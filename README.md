@@ -13,12 +13,34 @@ This bike trip analysis is aimed to support a business proposal for bike sharing
  - Gender
  - Year of Birth
 
-We intend support our proposal with analysis on the trend of user trips & trip Duration across weekdays, user type and gender. We used the Tableau for visualization of this dataset.
+We intend support our business proposal with analysis on the trend of user trips & trip Duration across weekdays, user type and gender. We used the Tableau for visualization of this dataset.
 
 ## _Results_
 The results are published in the [Tableau Public](https://public.tableau.com/views/BikeSharingfromTableauDesktop/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### Checkout time by users
 The analysis of trips on trip duration suggest that most of the trips are less than an hour.
 ![Check Out Time by Users](https://github.com/gopivasanth/bikesharing/blob/dbed5bdb20dcd10eaedb8db858e208f7d68f0b77/images/Checkout%20Times%20for%20Users.png)
+
+### Checkout time by gender
+The analysis of trips across user gender suggest more than 75% of the trips are from males.
+![Check Out Time by Gender](https://github.com/gopivasanth/bikesharing/blob/47458fb591f356e044f18bfcce664cc6134f328b/images/Checkout%20Times%20by%20Gender.png)
+
+### Trips by weekday per hour
+The analysis of trips on an hourly basis across weekdays shows that the trips are the highest during the peak hours from 07:00 AM - 10:00 AM and 05:00 PM - 07:00 PM. Thursday's have the highest bike trips
+![Trips by Weekday](https://github.com/gopivasanth/bikesharing/blob/47458fb591f356e044f18bfcce664cc6134f328b/images/Trips%20by%20Weekday.png)
+
+### Trips by weekday per hour
+The analysis of trips on an hourly basis across weekdays shows that the trips are the highest during the peak hours from 07:00 AM - 10:00 AM and 05:00 PM - 07:00 PM. This pattern is observed across gender as well.
+![Trips by Gender](https://github.com/gopivasanth/bikesharing/blob/47458fb591f356e044f18bfcce664cc6134f328b/images/Trips%20by%20Gender.png)
+
+### Trips by UserType
+The analysis of trips by usertype indicate more then 75% of the users are subscribers vs usertype customers.
+![Trips by Gender](https://github.com/gopivasanth/bikesharing/blob/47458fb591f356e044f18bfcce664cc6134f328b/images/Trips%20by%20Gender.png)
+
+### Top Starting and Ending Geo-Locations
+The below images indicate the top starting and ending locations in terms of geo-spatial view.
+![Top Starting Locations](https://github.com/gopivasanth/bikesharing/blob/08945674944f35e8719b71b1d34f1079ace6f6c0/images/Top%20Starting%20Locations.png)
+![Top Ending Locations](https://github.com/gopivasanth/bikesharing/blob/08945674944f35e8719b71b1d34f1079ace6f6c0/images/Top%20Ending%20Locations.png)
 
 ## _Summary_
