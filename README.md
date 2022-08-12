@@ -36,7 +36,7 @@ The analysis of trips on an hourly basis across weekdays shows that the trips ar
 
 ### Trips by UserType
 The analysis of trips by usertype indicate more then 75% of the users are subscribers vs usertype customers.
-![Trips by Gender](https://github.com/gopivasanth/bikesharing/blob/47458fb591f356e044f18bfcce664cc6134f328b/images/Trips%20by%20Gender.png)
+![Trips by Gender](https://github.com/gopivasanth/bikesharing/blob/2faa2d3df1d158d3cbf42b8005c7ca53b5c88324/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 ### Top Starting and Ending Geo-Locations
 The below images indicate the top starting and ending locations in terms of geo-spatial view.
@@ -44,3 +44,4 @@ The below images indicate the top starting and ending locations in terms of geo-
 ![Top Ending Locations](https://github.com/gopivasanth/bikesharing/blob/08945674944f35e8719b71b1d34f1079ace6f6c0/images/Top%20Ending%20Locations.png)
 
 ## _Summary_
+
